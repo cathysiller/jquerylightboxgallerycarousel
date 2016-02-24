@@ -1,1 +1,1 @@
-# jquerylightboxgallerycarousel
+Combined Helios by HTML5 UP design(html5up.net by @n33co) with a lightbox gallery plugin made from jQuery for the carousel in the homepage effect (to display images), then utilized a gallery/grid design also by HTML5UP in the design for the images within portfolio. Credit to: (https://github.com/n33/jquery.poptrox)
