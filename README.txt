@@ -1,4 +1,4 @@
-Combined Helios by HTML5 UP design(html5up.net by @n33co) and a lightbox gallery plugin for jQuery for the Carousel effect used in the design for the images (https://github.com/n33/jquery.poptrox)
+Combined Helios by HTML5 UP design(html5up.net by @n33co) and a lightbox gallery plugin for jQuery for the Carousel effect used in the design for the images to show off a portfolio (courtesy of https://github.com/n33/jquery.poptrox)
 
 _______________________
 
